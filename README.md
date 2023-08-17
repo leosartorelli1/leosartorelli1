@@ -1,6 +1,6 @@
 ### Olá ! Eu sou o Léo 🤠
 - 📫 Tenho 19 anos e sou um entusiasta da tecnologia
-- 📚 Sou aluno da Fatec Itapira e estou cursando Desenvolvimento de Software Multiplataforma
+- 📚 Sou aluno da Fatec Itapira e estou cursando Desenvolvimento de Software Multiplataforma. Meu objetivo é seguir na área da programação.
 - 🔧 Atualmente trabalho na Kanguru Informática como técnico em informática, realizando a montagem e manutenção de computadores e notebooks. 
 
 <!---
