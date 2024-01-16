@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Léo 🤠
-- 📫 Tenho 19 anos e sou um entusiasta da tecnologia
-- 📚 Estudante, atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Itapira. Também estou adquirindo mais conhecimento na rocketseat (Explorer e Ignite) 
+- 📫 Tenho 20 anos e sou um entusiasta da tecnologia
+- 📚 Estudante, atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Itapira e realizando os cursos da plataforma Rocketseat. 
 - 🔧 Atualmente trabalho na Kanguru Informática como técnico em informática, realizando a montagem e manutenção de computadores e notebooks. 
 
 <!---
