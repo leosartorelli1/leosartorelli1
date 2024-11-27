@@ -4,6 +4,7 @@
 - 🎓 Estudante, atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Itapira.
 - 🔧 Técnico de Informática na Kanguru Informática.
 - 📚 Atualmente estudando NodeJS, PHP e React. 
+- 💼 Você pode me encontrar no <a href="https://br.linkedin.com/in/leosartorelli" target="_blank">Linkedin</a>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,python,mongodb,nodejs,react,typescript)](https://skillicons.dev)
 
